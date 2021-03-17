@@ -1,0 +1,17 @@
+h2.intro {
+color: red;
+font-style: italic;
+font-style: bold;
+text-align: center;
+}
+
+p.intro {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+font-size: 20px;
+line-height: 30px;
+}
+
+img.intro {
+image-rendering: crisp-edges;
+border-image-repeat: round;
+}
