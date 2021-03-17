@@ -2,14 +2,14 @@ h1 {
   text-align: center;
 }
 
-h2.intro {
+div.intro {
 color: red;
 font-style: italic;
 font-style: bold;
 text-align: center;
 }
 
-p.intro {
+div.intro {
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
 font-size: 20px;
 line-height: 40px;
