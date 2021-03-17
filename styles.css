@@ -1,3 +1,7 @@
+h1 {
+  text-align: center;
+}
+
 h2.intro {
 color: red;
 font-style: italic;
@@ -11,3 +15,6 @@ font-size: 20px;
 line-height: 30px;
 }
 
+img.intro {
+border-radius: 50%;
+}
