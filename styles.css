@@ -11,7 +11,3 @@ font-size: 20px;
 line-height: 30px;
 }
 
-img.intro {
-image-rendering: crisp-edges;
-border-image-repeat: round;
-}
